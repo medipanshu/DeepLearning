@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#local files
+01_StartingWithExample/
+
+
 # C extensions
 *.so
 
