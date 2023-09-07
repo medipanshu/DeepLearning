@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 #local files
-#01_StartingWithExample/
-
+01_StartingWithExample/
+08_GPUBenchmarkingWithImageClassification/Untitled.ipynb
 
 # C extensions
 *.so
